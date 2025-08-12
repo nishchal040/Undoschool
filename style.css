@@ -107,7 +107,8 @@ section .search-bar button{
     font-family: poppins;
 }
 .age-container{
-    position: relative;
+    display: flex;
+    justify-content: center;
 }
 .age-container h1{
     display: flex;
@@ -116,7 +117,7 @@ section .search-bar button{
     font-weight: 400;
 }
 .age-container img{
-    position: absolute;
+    
     right: 440px;
     margin-top: 5px;
     width: 30px;
@@ -824,16 +825,12 @@ section .search-bar button{
         width: 100%;
     }
     .age-container{
-        position: relative;
+        display: flex;
+        justify-content: center;
     }
     .age-container h1{
         font-size: x-large;
         font-weight: 600;
-    }
-    .age-container img{
-        position: absolute;
-        left: 79%;
-        top:0px;
     }
     .age p{
         font-size: small;
