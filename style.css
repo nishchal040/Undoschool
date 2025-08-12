@@ -106,12 +106,14 @@ section .search-bar button{
     margin-top: 50px;
     font-family: poppins;
 }
+.age-container{
+    position: relative;
+}
 .age-container h1{
     display: flex;
     justify-self: center;
     font-size: xx-large;
     font-weight: 400;
-
 }
 .age-container img{
     position: absolute;
@@ -120,6 +122,7 @@ section .search-bar button{
     width: 30px;
     height: 30px;
     transform: rotatey(180deg);
+    top: 10%;
 }
 .age p{
     display: flex;
