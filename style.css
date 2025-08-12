@@ -81,7 +81,7 @@ section .search-bar button{
 }
 .search-bar img{
     position: absolute;
-
+    margin-left: 10px;
     top:74%;
     z-index: 1;
 }
@@ -115,7 +115,6 @@ section .search-bar button{
 }
 .age-container img{
     position: absolute;
-    bottom: 35px;
     right: 440px;
     margin-top: 5px;
     width: 30px;
