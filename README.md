@@ -1,3 +1,6 @@
+Name: Nishchal Nuthulakanti
+Date of submission: 12-08-2025
+
 /*for running the project offline*/
 For running the website offline download the code and run it in VSCode;
 
