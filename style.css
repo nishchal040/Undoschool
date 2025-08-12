@@ -81,7 +81,7 @@ section .search-bar button{
 }
 .search-bar img{
     position: absolute;
-    left:325px;
+
     top:74%;
     z-index: 1;
 }
